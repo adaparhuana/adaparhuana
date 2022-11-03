@@ -1,9 +1,9 @@
 
 
 
-
-  ![wumpus-rocket](https://user-images.githubusercontent.com/114762635/199809417-f9bc3547-87ee-4b5b-a20c-eb43b0efb06a.gif)
  ### Hi, I'm Ada! 👋
+  ![wumpus-rocket](https://user-images.githubusercontent.com/114762635/199809417-f9bc3547-87ee-4b5b-a20c-eb43b0efb06a.gif)
+
   
 <!--
 **Adapa22/Adapa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
