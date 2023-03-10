@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div class="container">
+  <img src="https://user-images.githubusercontent.com/114762635/199809417-f9bc3547-87ee-4b5b-a20c-eb43b0efb06a.gif" alt="Wumpus rocket">
+</div>
