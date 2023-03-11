@@ -1,4 +1,6 @@
+
 <h1 align="center">Welcome 👋</h1>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zfjmBNn/space.gif" alt="space" width="1000" height="400"></a>
 <h3 align="center"><em>My name is Ada, I'm a Data Science student.</em></h3>
 
 ### Languages and Tools:
