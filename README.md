@@ -4,8 +4,8 @@
 
 
 ### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://i.ibb.co/28qmHj4/python.png" />
-<img align="left" alt="Mysql" width="30px" src="https://i.ibb.co/JKGQ1mf/mysql.png" />
+<img href="https://www.python.org/" align="left" alt="Python" width="26px" src="https://i.ibb.co/28qmHj4/python.png" />
+<img href="https://www.mysql.com/" align="left" alt="Mysql" width="30px" src="https://i.ibb.co/JKGQ1mf/mysql.png" />
  
 
  
