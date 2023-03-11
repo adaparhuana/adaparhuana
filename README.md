@@ -1,4 +1,5 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/TKv9xTv/new.png" alt="new" width="900" height="200"></a>
+<h1 align="center"> Welcome 👋</h1>
+<h3 align="center"><em>My name is Ada, I'm a Data Science student.</em></h3>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zfjmBNn/space.gif" alt="space" width="1000" height="500"></a>
 
 <h3 align="left">Connect with me:</h3>
