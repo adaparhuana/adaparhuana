@@ -7,9 +7,10 @@
 <img href="https://www.python.org/" align="left" alt="Python" width="26px" src="https://i.ibb.co/28qmHj4/python.png" />
 <img href="https://www.mysql.com/" align="left" alt="Mysql" width="30px" src="https://i.ibb.co/JKGQ1mf/mysql.png" />
  
+<a href="https://www.python.org"><img width="26px" src="https://i.ibb.co/Fn5CFQs/sql.png" alt="sql" border="0"> </a>
+ 
+<img href="https://www.mysql.com/" align="left" alt="Mysql" width="30px" src="https://i.ibb.co/JKGQ1mf/mysql.png" />
 
- 
- 
 <!--
 **Adapa22/Adapa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
