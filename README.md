@@ -3,10 +3,14 @@
 <h3 align="center"><em>My name is Ada, I'm a Data Science student.</em></h3>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zfjmBNn/space.gif" alt="space" width="1000" height="500"></a>
 
-### Connect with me:
-<a href="https://github.com/Adapa22"><img src="https://i.ibb.co/S0jSv27/linkedIn.png" alt="linkedIn" width="20" height="20"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/9bX5cnSxvy" target="blank"><img align="center" src="https://i.ibb.co/sP14BDZ/lkd.png" alt="linkedIn" width="23" height="23"></a>  
+<a href="https://discord.gg/9bX5cnSxvy" target="blank"><img align="center" src="https://i.ibb.co/C7FppWz/discord.png" alt="discord" width="40" height="40"></a>
+<a href="https://github.com/Adapa22" target="blank"><img align="center" src="https://i.ibb.co/5xYkQ50/web.png" alt="web" width="30" height="30"></a>
 
-### Languages and Tools:
+  
+  ### Languages and Tools:
 <a href="https://powerbi.microsoft.com"><img src="https://i.ibb.co/HF04J5w/power-bi.png" alt="Power-bi" width="60" height="40"></a>
 <a href="https://deta.space"><img src="https://i.ibb.co/NSwt4rV/deta-space.png" alt="deta-space" width="40" height="40"></a>
 <a href="https://pandas.pydata.org"><img src="https://i.ibb.co/VMLxsSr/pandas.png" alt="pandas" width="100" height="40"></a>
