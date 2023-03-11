@@ -1,7 +1,5 @@
 <h1 align="center">Welcome 👋</h1>
-<h3 align="center"> My name is Ada, I'm a Data Science student.</h3>
-
-
+<h3 align="center"><em>My name is Ada, I'm a Data Science student.</em></h3>
 
 ### Languages and Tools:
 <a href="https://powerbi.microsoft.com"><img src="https://i.ibb.co/HF04J5w/power-bi.png" alt="Power-bi" width="60" height="40"></a>
