@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/9bX5cnSxvy" target="blank"><img align="center" src="https://i.ibb.co/sP14BDZ/lkd.png" alt="linkedIn" width="23" height="23"></a>  
+<a href="https://github.com/Adapa22" target="blank"><img align="center" src="https://i.ibb.co/sP14BDZ/lkd.png" alt="linkedIn" width="23" height="23"></a>  
 <a href="https://discord.gg/9bX5cnSxvy" target="blank"><img align="center" src="https://i.ibb.co/C7FppWz/discord.png" alt="discord" width="40" height="40"></a>
 <a href="https://github.com/Adapa22" target="blank"><img align="center" src="https://i.ibb.co/5xYkQ50/web.png" alt="web" width="30" height="30"></a>
 
