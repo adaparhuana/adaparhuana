@@ -3,6 +3,8 @@
 <h3 align="center"><em>My name is Ada, I'm a Data Science student.</em></h3>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zfjmBNn/space.gif" alt="space" width="1000" height="500"></a>
 
+### Connect with me:
+<a href="https://www.linkedin.com/in/adaparhuana/"><img src="https://i.ibb.co/S0jSv27/linkedIn.png" alt="linkedIn" width="20" height="20"></a>
 
 ### Languages and Tools:
 <a href="https://powerbi.microsoft.com"><img src="https://i.ibb.co/HF04J5w/power-bi.png" alt="Power-bi" width="60" height="40"></a>
