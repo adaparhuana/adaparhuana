@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/TKv9xTv/new.png" alt="new" width="700" height="150"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TKv9xTv/new.png" alt="new" width="900" height="200"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/zfjmBNn/space.gif" alt="space" width="1000" height="500"></a>
 
 <h3 align="left">Connect with me:</h3>
