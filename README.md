@@ -1,7 +1,8 @@
 
 <h1 align="center">Welcome 👋</h1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/zfjmBNn/space.gif" alt="space" width="1000" height="400"></a>
 <h3 align="center"><em>My name is Ada, I'm a Data Science student.</em></h3>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zfjmBNn/space.gif" alt="space" width="1000" height="500"></a>
+
 
 ### Languages and Tools:
 <a href="https://powerbi.microsoft.com"><img src="https://i.ibb.co/HF04J5w/power-bi.png" alt="Power-bi" width="60" height="40"></a>
