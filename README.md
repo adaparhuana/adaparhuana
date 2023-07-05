@@ -38,8 +38,11 @@ Hi, I'm Ada! 👋
 
 ## ⚙️ GitHub Analytics
 
-<a href="https://github.com/Adapa22"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adapa22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a> <a href="https://github.com/Adapa22"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adapa22&layout=compact&langs_count=8&theme=algolia"/></a>
-
+<p>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adapa22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adapa22&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+<br>
 
 
 
