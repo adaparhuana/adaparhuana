@@ -36,13 +36,12 @@ Hi, I'm Ada! 👋
 ![Static Badge](https://img.shields.io/badge/jira-Jira?logo=jira&logoColor=blue&labelColor=black&color=black)
 
 
-## ⚙️ GitHub Analytics
+## 📊 GitHub Stats
 
 <p>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adapa22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adapa22&layout=compact&langs_count=8&theme=algolia"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adapa22&show_icons=true&theme=algolia" height="139" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adapa22&layout=compact&langs_count=8&theme=algolia" height="139" />
 </p>
 <br>
-
 
 
