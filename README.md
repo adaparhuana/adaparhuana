@@ -25,7 +25,6 @@ Hi, I'm Ada! 👋
 ![Static Badge](https://img.shields.io/badge/Looker-Studio-Studio?logo=Looker&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Streamlit-Streamlit?logo=streamlit&logoColor=red&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/ScikitLearn-ScikitLearn?logo=scikit-learn&logoColor=orange&labelColor=black&color=black)
-
 ![Static Badge](https://img.shields.io/badge/AWS-black?logo=amazon)
 ![Static Badge](https://img.shields.io/badge/GCP-GCP?logo=google-cloud&logoColor=blue&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/Azure-Azure?logo=microsoft-Azure&logoColor=blue&labelColor=black&color=black)
