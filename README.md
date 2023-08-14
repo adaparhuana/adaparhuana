@@ -2,7 +2,7 @@
 ## 👩🏻‍💻 About Me
 Hi, I'm Ada! 👋
 
-🎓 Graduate in Data Science, developing as a Data Engineer\
+🎓 Data Scientist with a background in Accounting\
 🌱 I'm currently preparing to obtain the AWS Certified Cloud Practitioner certification \
 🔭 I'm currently working on new projects and challenges \
 🎯 My goal is to extract valuable insights and support informed decision making
@@ -15,7 +15,6 @@ Hi, I'm Ada! 👋
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-black?logo=Python&labelColor=black)
-![Scala](https://img.shields.io/badge/scala-black?logo=Scala&logoColor=red&labelColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=MySQL&labelColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL&logoColor=blue&labelColor=black&link=PostgreSQL)
 ![Docker](https://img.shields.io/badge/Docker-black?logo=Docker)
@@ -27,7 +26,6 @@ Hi, I'm Ada! 👋
 ![Static Badge](https://img.shields.io/badge/ScikitLearn-ScikitLearn?logo=scikit-learn&logoColor=orange&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/AWS-black?logo=amazon)
 ![Static Badge](https://img.shields.io/badge/GCP-GCP?logo=google-cloud&logoColor=blue&labelColor=black&color=black)
-![Static Badge](https://img.shields.io/badge/Azure-Azure?logo=microsoft-Azure&logoColor=blue&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=GitHub)
 ![Static Badge](https://img.shields.io/badge/Git-black?logo=Git)
 ![Static Badge](https://img.shields.io/badge/VSCode-VSCode?logo=visual-studio&logoColor=blue&labelColor=black&color=black)
