@@ -25,6 +25,7 @@ Hi, I'm Ada! 👋
 ![Static Badge](https://img.shields.io/badge/Streamlit-Streamlit?logo=streamlit&logoColor=red&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/ScikitLearn-ScikitLearn?logo=scikit-learn&logoColor=orange&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/AWS-black?logo=amazon)
+![Static Badge](https://img.shields.io/badge/Azure-Azure?logo=microsoft-Azure&logoColor=blue&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/GCP-GCP?logo=google-cloud&logoColor=blue&labelColor=black&color=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=GitHub)
 ![Static Badge](https://img.shields.io/badge/Git-black?logo=Git)
@@ -37,8 +38,8 @@ Hi, I'm Ada! 👋
 ## 📊 GitHub Stats
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adapa22&show_icons=true&theme=algolia" height="139" />
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adapa22&layout=compact&langs_count=8&theme=algolia" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adaparhuana&show_icons=true&theme=algolia" height="139" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adaparhuana&layout=compact&langs_count=8&theme=algolia" height="139" />
 </p>
 <br>
 
