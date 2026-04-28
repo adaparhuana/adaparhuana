@@ -2,7 +2,7 @@
 ## 👩🏻‍💻 About Me
 Hi, I'm Ada! 👋
 
-🎓 Data Engineer \
+Data Engineer \
 🌱 I’m currently learning ... \
 🔭 I’m currently working on ... \
 🎯 My goal ...
