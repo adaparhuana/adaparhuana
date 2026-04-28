@@ -2,11 +2,10 @@
 ## 👩🏻‍💻 About Me
 Hi, I'm Ada! 👋
 
-🎓 Data Scientist with a background in Accounting\
-🌱 I'm currently preparing to obtain the AWS Certified Cloud Practitioner certification \
-🔭 I'm currently working on new projects and challenges \
-🎯 My goal is to extract valuable insights and support informed decision making
-
+🎓 Data Engineer \
+🌱 I’m currently learning ... \
+🔭 I’m currently working on ... \
+🎯 My goal ...
 ## 🌐 Connect with me
 <a href="https://www.linkedin.com/in/adaparhuana/"><img src="https://img.shields.io/badge/Linkedin-black?logo=Linkedin&logoColor=white&labelColor=blue&color=blue"/></a>
 <a href="https://discord.gg/9bX5cnSxvy"><img src="https://img.shields.io/badge/Discord-black?logo=Discord&logoColor=white&labelColor=%234040ff&color=%234040ff"/></a>
